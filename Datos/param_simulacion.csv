@@ -1,0 +1,5 @@
+clave,valor
+umbral_recalculo_dia,6.0
+eps_precios,0.5
+eps_deficit,0.25
+precio_tope,20000.0

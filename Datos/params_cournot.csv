@@ -1,0 +1,16 @@
+vector,a_v,b_v
+electricidad,288.0,1
+amoniaco,144.0,1
+hidrogeno,162.0,0.1
+metanol,135.0,1
+gas,90.0,0.1
+diesel,126.0,0.1
+fueloleo,108.0,0.1
+gasolina,153.0,0.1
+carbon,180.0,0.1
+industria_cemento,1000.0,1
+industria_metano,576.0,1
+industria_siderurgica,576.0,1
+transporte_carretera_ligero,576.0,1
+transporte_carretera_pesado,576.0,1
+transporte_mar,576.0,1

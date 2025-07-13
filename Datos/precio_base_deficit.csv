@@ -1,0 +1,16 @@
+vector,precio_base_deficit
+electricidad,10000
+amoniaco,20000
+diesel,7000
+fueloleo,6000
+gas,15000
+gasolina,8500
+hidrogeno,19000
+metanol,20000
+carbon,10000
+industria_cemento,100000
+industria_metano,100000
+industria_siderurgica,100000
+transporte_carretera_ligero,100000
+transporte_carretera_pesado,100000
+transporte_mar,100000

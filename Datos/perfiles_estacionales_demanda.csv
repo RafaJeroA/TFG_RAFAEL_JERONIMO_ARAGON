@@ -1,0 +1,5 @@
+estacion,electricidad,transporte_carretera_ligero,transporte_carretera_pesado,transporte_mar,industria_cemento,industria_siderurgica,amoniaco,metanol
+invierno,0.32,0.18,0.23,0.23,0.2,0.24,0.15,0.24
+primavera,0.21,0.24,0.27,0.24,0.28,0.25,0.45,0.26
+verano,0.27,0.32,0.22,0.28,0.32,0.26,0.2,0.25
+otono,0.2,0.26,0.28,0.25,0.2,0.25,0.2,0.25

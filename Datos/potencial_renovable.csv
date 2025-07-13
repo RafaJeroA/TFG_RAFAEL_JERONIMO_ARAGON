@@ -1,0 +1,12 @@
+tecnologia,potencial_max_mw
+solar_pv,1000000
+eolica,1400000
+hidrogeno_verde,500000
+hidraulica,300000
+bateria,300000
+solar_termica,200000
+hidroeolica,710000
+bombeo,250000
+almacen_h2,200000
+biomasa,140000
+hidrogeno_electrico,500000
